@@ -222,7 +222,7 @@ div.favorite.module {
   border-radius: 10px;
   background: rgba(21, 9, 9, 0.7);
   text-align: center;
-  font-size: 10px;
+  font-size: 11px;
   color: #E2DCC0;
   opacity: 1;
   white-space: pre;
